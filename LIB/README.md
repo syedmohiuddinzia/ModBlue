@@ -1,4 +1,4 @@
-## **--->>> Modbus Slave RTU Library Link**
+## *==> Modbus Slave RTU Library Link*
 [https://github.com/4-20ma/ModbusMaster](https://github.com/4-20ma/ModbusMaster)
 
 # ModbusMaster
